@@ -2,6 +2,8 @@
 
 > A CodeIgniter boilerplate with React.
 
+This fork has upgraded Babel and includes ```@babel/polyfill```.
+
 ## Installation
 
 Clone the repository and run the command below to install node dependencies.  
